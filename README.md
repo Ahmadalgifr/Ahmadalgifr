@@ -1,5 +1,8 @@
 ### Hello!👋i'm Ahmad Algifari just call me Algi.
-Now i'm learning at Bangkit Academy program Study Independent, I'm interested in skills in the Data field.
+An Information Systems graduate from STT Terpadu Nurul Fikri with a strong interest in data analysis, business intelligence, and web development.
+
+I have hands-on experience in data processing and visualization using Power BI, and I enjoy applying technology and analytics to solve problems and improve decision-making.
+My technical skills include Python, Power BI, SQL, HTML, CSS, JavaScript, UI/UX Design, Video Editing, and managing Odoo (ERP) systems.
 
 Here are some ideas to get you started:
 <!--
@@ -10,8 +13,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-- 🎓 I am currently studying at the College Integrated Technology Nurul Fikri can be known STT-NF
-- 🌱 I’m currently learning at Bangkit Academy
 - 📫 How to reach me: aalgifari1708@gmail.com
 - 🗣 If you are interested in getting to know me, please follow my [LinkedIn](https://www.linkedin.com/in/ahmad-algifari-b744521b4/) account
 
